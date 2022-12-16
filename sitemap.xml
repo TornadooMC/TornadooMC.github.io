@@ -3,44 +3,38 @@
 <!--  created with sitemap generator https://octopus.do  -->
 
     <url>
-        <loc>https://tornadoomc.github.io/</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tornadoomc.github.io//page</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net/page</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tornadoomc.github.io//page</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net/page</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tornadoomc.github.io//page</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net/page</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tornadoomc.github.io//page</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net/cookies</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
-        <loc>https://tornadoomc.github.io//cookies</loc>
-        <lastmod>2022-12-03</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://tornadoomc.github.io//404-error</loc>
-        <lastmod>2022-12-03</lastmod>
+        <loc>https://tornadoo.net/404-error</loc>
+        <lastmod>2022-12-16</lastmod>
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
