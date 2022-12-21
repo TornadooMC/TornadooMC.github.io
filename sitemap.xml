@@ -7,34 +7,4 @@
         <changefreq>always</changefreq>
         <priority>0.5</priority>
     </url>
-    <url>
-        <loc>https://tornadoo.net/page</loc>
-        <lastmod>2022-12-16</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://tornadoo.net/page</loc>
-        <lastmod>2022-12-16</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://tornadoo.net/page</loc>
-        <lastmod>2022-12-16</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://tornadoo.net/cookies</loc>
-        <lastmod>2022-12-16</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
-    <url>
-        <loc>https://tornadoo.net/404-error</loc>
-        <lastmod>2022-12-16</lastmod>
-        <changefreq>always</changefreq>
-        <priority>0.5</priority>
-    </url>
 </urlset>
